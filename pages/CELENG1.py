@@ -3,7 +3,8 @@ import streamlit as st
 
 
 
-
+st.set_page_config(page_title="apakah musim depan tsunami trophy?", layout="centered")
+st.sidebar.header("celeng1")
 st.set_page_config(page_title="Mancester is blu")
 st.title("Mancester is blu")
 st.header("Mancester is blu")
