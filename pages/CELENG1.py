@@ -3,4 +3,4 @@ import streamlit as st
 
 st.title("16")
 st.write("16")
-st.image ("https://drive.google.com/file/d/1VSTMh1KLUwClPZzF5k3GmRI3hcp0ehyc/view?usp=sharing", caption=" HAAAAAHHHH!", use_column_width=True)
+st.image ("https://i.pinimg.com/236x/42/18/52/421852183e97e374bb0fbb403f3a5666.jpg", caption=" HAAAAAHHHH!", use_column_width=True)
