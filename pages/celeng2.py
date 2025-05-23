@@ -2,4 +2,4 @@ import streamlit as st
 
 st.title("inpo throphy")
 st.write("16")
-st.image ("https://drive.google.com/file/d/1QyxRIsh2XfpfUxvl_c5dynAcV5mdFqg1/view?usp=sharing", caption=" hooraumum!", use_column_width=True)
+st.image ("https://cdn1-production-images-kly.akamaized.net/IuHx4gowkGRYtN8BbZDUxBTLLJs=/500x667/smart/filters:quality(75):strip_icc():format(webp)/kly-media-production/medias/3611712/original/048006200_1635127575-4_akun_mantans.jpg", caption=" hooraumum!", use_column_width=True)
